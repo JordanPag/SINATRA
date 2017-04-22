@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Hello world!'
+  'SINATRA IS <b>BEAST!!!!!!!!!!!!!!!!!!!!!!!!!</b>'
 end
